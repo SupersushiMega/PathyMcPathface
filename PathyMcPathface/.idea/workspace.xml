@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2ec8fcb-dfcf-43d5-abbf-f896d975d18b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WnuKrAt7OlyKsl2z9elgh5vYzR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PathyMcPathface" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PathyMcPathface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/PathyMcPathface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="turtletext" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PathyMcPathface" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2ec8fcb-dfcf-43d5-abbf-f896d975d18b" name="Default Changelist" comment="" />
+      <created>1579797618731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579797618731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580502422580">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="206" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1580502422580" />
+    <state x="531" y="236" key="FileChooserDialogImpl" timestamp="1579799289268">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="531" y="236" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1579799289268" />
+    <state width="1480" height="305" key="GridCell.Tab.0.bottom" timestamp="1584014482162">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="279" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1579898035404">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="279" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1500.960@0.0.1500.960" timestamp="1579898035404" />
+    <state width="1480" height="305" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1584014482162" />
+    <state width="1480" height="305" key="GridCell.Tab.0.center" timestamp="1584014482162">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="279" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1579898035404">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="279" key="GridCell.Tab.0.center.inPresentationMode/0.0.1500.960@0.0.1500.960" timestamp="1579898035404" />
+    <state width="1480" height="305" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1584014482162" />
+    <state width="1480" height="305" key="GridCell.Tab.0.left" timestamp="1584014482162">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="279" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1579898035402">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="279" key="GridCell.Tab.0.left.inPresentationMode/0.0.1500.960@0.0.1500.960" timestamp="1579898035402" />
+    <state width="1480" height="305" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1584014482162" />
+    <state width="1480" height="305" key="GridCell.Tab.0.right" timestamp="1584014482162">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="279" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1579898035404">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="279" key="GridCell.Tab.0.right.inPresentationMode/0.0.1500.960@0.0.1500.960" timestamp="1579898035404" />
+    <state width="1480" height="305" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1584014482162" />
+    <state width="1480" height="316" key="GridCell.Tab.1.bottom" timestamp="1580479092378">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1580479092378" />
+    <state width="1480" height="316" key="GridCell.Tab.1.center" timestamp="1580479092378">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1580479092378" />
+    <state width="1480" height="316" key="GridCell.Tab.1.left" timestamp="1580479092378">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1580479092378" />
+    <state width="1480" height="316" key="GridCell.Tab.1.right" timestamp="1580479092378">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1580479092378" />
+    <state x="252" y="124" key="SettingsEditor" timestamp="1579799272494">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor.inPresentationMode" timestamp="1579898086824">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor.inPresentationMode/0.0.1500.960@0.0.1500.960" timestamp="1579898086824" />
+    <state x="252" y="124" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1579799272494" />
+    <state width="756" height="486" key="XDebugger.FullValuePopup" timestamp="1580472189777">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="756" height="486" key="XDebugger.FullValuePopup/0.0.1500.960@0.0.1500.960" timestamp="1580472189777" />
+    <state x="446" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1581066368930">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="446" y="306" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1581066368930" />
+    <state x="419" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1581057584917">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="419" y="212" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1581057584917" />
+  </component>
+</project>
